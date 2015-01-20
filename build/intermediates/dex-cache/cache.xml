@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/Users/seshasa/Android_Training/android_first_app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="/Users/seshasa/Android_Training/android_first_app/build/intermediates/pre-dexed/debug/android-support-v4-174163c799578e3a7a56df04503a138aac776777.jar" />
+    </item>
+    <item
         jar="/Users/seshasa/Documents/AndroidTraining/android_hello_world/libs/android-support-v4.jar"
         jumboMode="false"
         revision="21.1.2"

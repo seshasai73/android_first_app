@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/seshasa/Documents/AndroidTraining/android_hello_world/assets"/></dataSet><dataSet config="debug"><source path="/Users/seshasa/Documents/AndroidTraining/android_hello_world/build-types/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/seshasa/Android_Training/android_first_app/assets"/></dataSet><dataSet config="debug"><source path="/Users/seshasa/Android_Training/android_first_app/build-types/debug/assets"/></dataSet></merger>
