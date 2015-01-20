@@ -1,0 +1,2 @@
+/Users/seshasa/Documents/AndroidTraining/android_hello_world/build/intermediates/classes/debug
+/Users/seshasa/Documents/AndroidTraining/android_hello_world/build/intermediates/pre-dexed/debug/android-support-v4-3b9cecda9d44801f2c2b808b355097409de33316.jar
